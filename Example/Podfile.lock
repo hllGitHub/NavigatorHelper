@@ -1,0 +1,16 @@
+PODS:
+  - NavigatorHelper (0.1.0)
+
+DEPENDENCIES:
+  - NavigatorHelper (from `../`)
+
+EXTERNAL SOURCES:
+  NavigatorHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NavigatorHelper: 91e2565652f5cf8fbb3fda0f943ccfa09ad8770c
+
+PODFILE CHECKSUM: b705b7600e936ff09e8c64f90f55025968602f7e
+
+COCOAPODS: 1.10.1

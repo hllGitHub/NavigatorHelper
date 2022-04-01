@@ -1,0 +1,6 @@
+framework module NavigatorHelper {
+  umbrella header "NavigatorHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

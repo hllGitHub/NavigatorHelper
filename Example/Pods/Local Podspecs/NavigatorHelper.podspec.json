@@ -1,0 +1,22 @@
+{
+  "name": "NavigatorHelper",
+  "version": "0.1.0",
+  "summary": "A short description of NavigatorHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hlltd/NavigatorHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hlltd": "hllfj922@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hlltd/NavigatorHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NavigatorHelper/Classes/**/*"
+}
